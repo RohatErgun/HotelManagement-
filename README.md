@@ -1,10 +1,10 @@
 # HotelManagement-
 
-##About the program
+## About the program
 I created a c++ project to get familiar with the language and object orientaited concepts like,
 File Handling for storing data(in my case personal record of the customer).
 
-##General idea 
+## General idea 
 The customer can navigate around some options.
 Customer can create a profile  which will be recorded as a file with .dat.
 Customer can delete the file or refill the file.
